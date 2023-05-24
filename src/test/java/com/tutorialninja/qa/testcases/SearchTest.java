@@ -11,7 +11,7 @@ import com.tutorialsninja.pa.pageobjects.SearchPage;
 
 public class SearchTest extends Base{
 	
-	
+	//Update
 
 	public SearchTest() {
 		super();
